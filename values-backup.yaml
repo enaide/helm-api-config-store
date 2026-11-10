@@ -1,4 +1,0 @@
-USER-SUPPLIED VALUES:
-postgresql:
-  auth:
-    password: appuserpassword
